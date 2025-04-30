@@ -39,13 +39,13 @@ python src/main.py
 
 ### Gesture Controls
 
-- **Move Mouse**: Raise your index finger and thumb
-- **Lock Movement**: Raise index, middle finger and thumb
-- **Left Click**: Join index and middle fingers
-- **Right Click**: Join index and middle fingers + raise ring finger
-- **Double Click**: Join index and middle fingers + raise pinky
-- **Scroll Up**: Join index and middle fingers + raise pinky (thumb down)
-- **Scroll Down**: Join index and middle fingers (thumb down)
+- **Move Mouse**: Raise your index finger (other fingers closed)
+- **Lock Movement**: Raise index and middle finger (other fingers closed)
+- **Left Click**: Join index and middle fingers (other fingers closed)
+- **Right Click**: Join index and middle fingers + raise ring finger (other fingers closed)
+- **Double Click**: Join index and middle fingers + raise pinky (other fingers closed)
+- **Scroll Up**: Join index and middle fingers + raise pinky (thumb open)
+- **Scroll Down**: Join index and middle fingers (thumb open)
 
 ## Project Structure
 
