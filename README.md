@@ -21,8 +21,8 @@ Control your mouse cursor using hand gestures captured through your webcam. This
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-gesture-mouse.git
-cd ai-gesture-mouse
+git clone https://github.com/PhilemonTJ/Gesture-based-AI-Mouse.git
+cd Gesture-based-AI-Mouse
 ```
 
 2. Install required packages:
@@ -50,7 +50,7 @@ python src/main.py
 ## Project Structure
 
 ```
-ai-gesture-mouse/
+Gesture-based-AI-Mouse/
 ├── src/
 │   ├── main.py              # Main application script
 │   └── utils/
